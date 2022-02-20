@@ -21,8 +21,8 @@ fun sum(a:Int, b:Int, c:Int, d:Int){
     println(sum)
 
 }
-fun fact():String {
+fun fact() {
     var fact = "I speak English"
     println(fact)
-    return fact
+    
 }
