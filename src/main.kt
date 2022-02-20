@@ -5,21 +5,21 @@ fun main () {
     fact()
 
 }
-fun helloworld() :String {
+fun helloworld() {
     var name = "Mercy"
     println("Hello ${name}")
-    return name
+
 
 }
-fun modulus(a:Int, b:Int):Int{
+fun modulus(a:Int, b:Int){
     var modulus = a%b
     println(modulus)
-    return modulus
+
 }
-fun sum(a:Int, b:Int, c:Int, d:Int):Int {
+fun sum(a:Int, b:Int, c:Int, d:Int){
     var sum = a+b+c+d
     println(sum)
-    return sum
+
 }
 fun fact():String {
     var fact = "I speak English"
